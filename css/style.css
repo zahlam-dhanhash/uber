@@ -1,0 +1,420 @@
+.header{
+    width: 100%;
+    height: 64px;
+    background-color: black;
+  
+
+}
+body{
+    margin: 0px;
+}
+
+.logo{
+     color: white;
+    width: 50px;
+    height: 40px;
+    font-size: 27px;
+    margin-left: 65px;
+    padding-top:11px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.title{
+    background-color: black;
+
+}
+.first{
+    background-color: black;
+    width: 100%;
+    height: 826px;
+    padding-top: 30px;
+    padding-left: 96px 
+}
+.word-1{
+    padding-left: 16px;
+    padding-top: 131px;
+    font-size: 52px;
+    font-family:  UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:white;
+}
+.word-1-1{
+    color: white;
+    font-size: 16px;
+    margin-left: 19px;
+    font-family:  UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.word-1-2{
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.word-1-3{
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.word-1-4{
+    padding: 20px;
+    width: 149px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.img-1{
+    margin-top: -531px;
+    margin-left:497px;
+}
+
+
+.next-one{
+    width: 100%;
+    height: 386px;
+}
+.text-one-1{
+    width: 371px;
+    height: 160px;
+    background-color: rgb(221, 219, 216);
+    margin-left: 153px;
+    margin-top: 190px;
+    border-radius: 6px;
+}
+.text-one-1-1{
+    height: 126px;
+    width: 126px;
+}
+.text-one-1-2{
+    padding-left: 232px;
+    padding-top: 26px;
+    width: 116px;
+}
+.text-one-1-3{
+    margin-top: -119px;
+    margin-left: 18px;
+}
+.text-one-1-4{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+.text-one-1-5{
+    margin-top: -6px;
+    margin-left: 20px;
+    height: 31px;
+    border-radius: 88px;
+    width: 66px;
+}
+
+.next-one1{
+    width: 100%;
+    height: 686px;
+    
+}
+.next-one1-1{
+    margin-top: 64px;
+    margin-left: 99px;
+}
+.next-one1-3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 802px;
+    margin-top: -480px;
+    font-size: 47px;
+
+}
+.next-one1-4{
+    margin-left: 800px;
+    margin-top: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.next-one1-5{
+    margin-top: -3px;
+    margin-left: 802px;
+    height: 48px;
+    border-radius: 11px;
+    width: 139px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+
+}
+.next-one1-6{
+    margin-top: -37px;
+    margin-left: 965px;
+    font-size: 19px;
+}
+
+.next-one2{
+    width: 100%;
+    height: 686px;
+}
+.next-one2-1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 45px;
+    margin-top: 12px;
+    margin-left: 101px; 
+    padding-top: 179px
+}
+.next-one2-3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;  
+    margin-left: 101px;  
+}
+.next-one2-4{
+    margin-top: 12px;
+    margin-left:98px;
+    height: 48px;
+    border-radius: 11px;
+    width: 139px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+
+}
+
+.next-one2-5{
+    margin-top: -37px;
+    margin-left: 274px;
+    font-size: 19px;
+    
+}
+.next-one2-6{
+
+        margin-top:-456px;
+        margin-left:692px;
+}
+
+
+.next-one3{
+    width: 100%;
+    height: 686px;
+
+}
+.next-one3-2{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 31px;
+    margin-top: -601px;
+    margin-left: 786px;
+    padding-top: 179px;
+}
+.next-one3-3{
+
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 9px;
+    margin-left: 786px;
+
+    
+}
+.next-one3-4{
+    margin-top: 12px;
+    margin-left:781px;
+    height: 48px;
+    border-radius: 11px;
+    width: 139px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+}
+
+.next-one4{
+    width: 100%;
+    height: 406px;
+    background-color: rgb(222, 225, 228);
+}
+.footer-last{
+    width: 100%;
+    height: 918px;
+    background-color: black;
+}
+
+.next-one4-1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    margin-left: 103px;
+   padding-top:66px ;
+}
+.next-one4-2{
+    width: 558px;
+    height: 198px;
+    background-color: white;
+    margin-left: 100px;
+}
+.next-one4-3{
+    margin-top: 26px;
+    margin-left: 23px;
+}
+.next-one4-4{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-left: 302px;
+  
+    margin-top: -136px;
+
+}
+.next-one4-5{
+    font-size: 15px;
+    margin-top: -17px;
+}
+.next-one4-6{
+    width: 558px;
+    height: 198px;
+    background-color: white;
+    margin-left: 703px;
+    margin-top: -135px;
+}
+.next-one4-7{
+    margin-top: 26px;
+    margin-left: 23px;
+}
+.next-one4-8{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-left: 909px;
+  
+    margin-top: -136px;
+
+}
+.next-one4-9{
+    font-size: 15px;
+    margin-top: -17px;
+
+}
+.next-one5-1{
+    color: white;
+   width: 50px;
+   height: 40px;
+   font-size: 27px;
+   margin-left: 96px;
+   padding-top:97px;
+   font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.next-one5-2{
+    color: white;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8px;
+    margin-top: 23px;
+    margin-left: 99px;
+
+}
+.next-one5-4{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 27px;
+    color: white;
+    margin-left: -136px;
+    margin-top: 23px;
+}
+
+.next-one5-5{
+    color: white;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 205px;
+    margin-top: 23px;
+    font-size: 19px;
+}
+.next-one5-3{
+    margin-top: 90px;
+}
+
+.next-one5-6{
+    color: white;
+    margin-top: 23px;
+    margin-left: 2px;
+    font-size: 14px;
+}
+.next-one5-7{
+    margin-top: 15px;
+    margin-left: 92px; 
+}
+.next-one5-9{
+    color: white;
+    margin-top: 23px;
+    margin-left: 2px;
+    font-size: 14px;
+}
+
+.next-one5-8{
+    margin-top: -211px;
+    margin-left: 386px; 
+}
+.next-one5-10{
+   
+    margin-top: -248px;
+    margin-left: 671px; 
+}
+.next-one5-11{
+    color: white;
+    margin-top: 23px;
+    margin-left: 2px;
+    font-size: 14px;
+}
+.next-one5-13{
+    color: white;
+    margin-top: 23px;
+    margin-left: 2px;
+    font-size: 14px;
+}
+.next-one5-12{
+   
+    margin-top: -108px;
+    margin-left: 1027px; 
+}
+
+.next-one5-15{
+    height: 16px;
+    width: 16px; 
+    margin-top: 253px;
+    margin-left: 93px;
+}
+.next-one5-16{
+    height: 16px;
+    width: 16px; 
+    margin-top: 253px;
+    margin-left: 89px;
+
+}
+.next-one5-17{
+    height: 16px;
+    width: 26px; 
+    margin-top: 253px;
+    margin-left: 89px;
+
+}
+.next-one5-18{
+    height: 16px;
+    width: 16px; 
+    margin-top: 253px;
+    margin-left: 89px;
+
+
+}
+
+.next-one5-19{
+    height: 16px;
+    width: 16px; 
+    margin-top: 253px;
+    margin-left: 89px;
+
+}
+
+.next-one5-20{
+    width: 200px;
+    height: 50px;
+    margin-left: 96px;
+    margin-top: 46px;
+}
+.next-one5-21{
+    width: 200px;
+    height: 50px;
+    margin-left: 305px;
+    margin-top: -49px;
+}
+.next-one5-21 img{
+    height: 59px;
+
+}
